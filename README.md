@@ -6,7 +6,7 @@ In today's world there are many devices to surf the web plus many people with di
 
 ## Usage
 The screenshot of the Horiseon website is linked here:
-![Horiseon Website](C:\Users\yigit\bootcamp\MSU-VIRT-FSF-PT-09-2022-U-LOLC\Module-1-Challenge\Develop\assets\images\Horiseon-website.png)
+![Horiseon Website](images\Horiseon-website.png)
 
 ## Credits
 
