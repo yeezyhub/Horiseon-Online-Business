@@ -6,11 +6,7 @@ In today's world there are many devices to surf the web plus many people with di
 
 ## Usage
 The screenshot of the Horiseon website is linked here:
-<<<<<<< HEAD
-[Horiseon Website](Module-1-Challenge\Develop\assets\images\Horiseon-website.png)
-=======
 ![Horiseon Website](images\Horiseon-website.png)
->>>>>>> 2216e84a9d9430b13a61190332a22b33948be101
 
 ## Credits
 
