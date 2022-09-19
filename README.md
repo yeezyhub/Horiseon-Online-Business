@@ -6,7 +6,9 @@ In today's world there are many devices to surf the web plus many people with di
 
 ## Usage
 The screenshot of the Horiseon website is linked here:
-![Horiseon Website](images\Horiseon-website.png)
+<!-- ![Horiseon Website](images\Horiseon-website.png?raw=true) -->
+<!-- <img src="assets/images/Horiseon-website.png" alt="Horiseon Website"/> -->
+<img src="assets/images/horiseon-website.png" width="20%" height="20%">
 
 ## Credits
 
