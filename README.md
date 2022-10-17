@@ -1,4 +1,4 @@
-# Horiseon-Online-Business
+# Horiseon Online Business
 
 ## Deployed Website
 
