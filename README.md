@@ -2,7 +2,7 @@
 
 ## Deployed Website
 
-[Horiseon - Online Business Management](https://yeezyhub.github.io/Module-1-Challenge-Horiseon/)
+[Horiseon - Online Business Management](https://yeezyhub.github.io/Horiseon-Online-Business/)
 
 ## Description
 
